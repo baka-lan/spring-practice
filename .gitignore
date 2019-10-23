@@ -1,0 +1,10 @@
+### Intellij+all Patch ###
+# Ignores the whole .idea folder and all .iml files
+
+.idea/
+.idea/misc.xml
+modules.xml
+*.iml
+*.ipr
+out/
+target/
